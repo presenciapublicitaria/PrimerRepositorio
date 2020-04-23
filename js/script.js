@@ -22,6 +22,7 @@ function ampliar(){
 
 	btnAmpliar.setAttribute("onClick","reducir()");
 
+
 }
 
 function reducir(){
