@@ -43,3 +43,9 @@ Underline 2
 # Imagenes
 
 ![Logo Triveca](http://csamaniego.info/img/general/logo.png)
+
+# Code Snippets
+
+``` <?php
+``` echo "Hola Mundo";
+``` ?>
