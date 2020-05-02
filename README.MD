@@ -42,4 +42,4 @@ Underline 2
 
 # Imagenes
 
-[Logo Triveca](http://csamaniego.info/img/general/logo.png)
+![Logo Triveca](http://csamaniego.info/img/general/logo.png)
