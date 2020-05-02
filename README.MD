@@ -46,6 +46,8 @@ Underline 2
 
 # Code Snippets
 
-``` <?php
-``` echo "Hola Mundo";
-``` ?>
+``` PHP 
+<?php
+echo "Hola Mundo";
+?>
+```
