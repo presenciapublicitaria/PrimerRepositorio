@@ -12,6 +12,9 @@ Underline 1
 Underline 2
 ===========
 
+
+# Formato de enfasis
+
 - letra *italica* primera forma.
 - letra _italica_ segunda forma.
 
@@ -21,3 +24,14 @@ Underline 2
 - formato ~~tachado~~. formato normal.
 
 - Aqui podemos usar *italica*, pero tambien __bold__ y ~~tachado~~
+
+
+#Listas
+
+1. Esto es un item
+2. Esto es un item
+3. Esto es un item
+
+- Esto es otro item con guion
+- Esto es otro item con guion
+- Esto es otro item con guion
