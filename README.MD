@@ -39,3 +39,7 @@ Underline 2
 # Enlaces
 
 - [Esto es un link en markdown](http://www.google.com)
+
+# Imagenes
+
+[Logo Triveca](http://csamaniego.info/img/general/logo.png)
