@@ -51,3 +51,10 @@ Underline 2
 echo "Hola Mundo";
 ?>
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+|Juan|Perez|Version 1.0.0|
+|Pepe|Loar| Version 2.1.1|
