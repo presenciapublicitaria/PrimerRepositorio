@@ -74,3 +74,10 @@ Esto es un texto dividido
 
 ---
 Esto es otro texto dividido
+
+***
+Esto es otro tipo de division
+
+___
+
+Esto es el ultimo tipo de division
