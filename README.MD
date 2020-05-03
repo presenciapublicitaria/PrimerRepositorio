@@ -66,3 +66,11 @@ Esto es un texto referente a una cita que pondremos debajo.
 Esto es la segunda linea
 
 Esto es un texto no relacionado a la cita
+
+# Lineas Divisoras Horizontales
+
+
+Esto es un texto dividido
+
+---
+Esto es otro texto dividido
